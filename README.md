@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nqobile 
-- 👀 I’m interested in adding to my programming knowledge by learning Python.
+- 👋 Hi, I’m Nqobile.
+- 👀 I’m interested in software development, problem-solving, and leveraging tech to make a positive difference in people’s lives.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me- email: nqobilemasombuka77@gmail.com
 - 😄 Pronouns: she/her.
