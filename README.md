@@ -3,7 +3,7 @@
 ### ☁️ Cloud & DevOps Engineer | Multi-Cloud Infrastructure  
 #### 💻 Full-Stack Lead | JavaScript Ecosystem
 
-I design and deploy scalable cloud-native systems using AWS (currently), Azure and Google Cloud (in orogress) whilst leading full-stack development across modern web applications.
+I design and deploy scalable cloud-native systems using AWS (currently), Azure and Google Cloud (in progress) whilst leading full-stack development across modern web applications.
 
 My work spans infrastructure architecture, data engineering, backend systems, and frontend development — with a growing focus on cloud engineering and distributed systems.
 
