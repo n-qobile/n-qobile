@@ -1,11 +1,11 @@
-## 👋 Hi, I’m Nqobile
+## Hi, I’m Nqobile
 
-### ☁️ Cloud & DevOps Engineer | Multi-Cloud Infrastructure  
-#### 💻 Full-Stack Lead | JavaScript Ecosystem
+### Cloud & DevOps Engineer | Multi-Cloud Infrastructure  
+### Full-Stack Lead | JavaScript Ecosystem
 
 I design and deploy scalable cloud-native systems using AWS (currently), Azure and Google Cloud (in progress) whilst leading full-stack development across modern web applications.
 
-My work spans infrastructure architecture, data engineering, backend systems, and frontend development — with a growing focus on cloud engineering and distributed systems.
+My work spans infrastructure architecture, data engineering, backend systems, and frontend development with a growing focus on cloud engineering and distributed systems.
 
 ---
 
@@ -34,7 +34,7 @@ Currently expanding into **Microsoft Azure** and **Google Cloud Platform**.
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 🔗 **Portfolio:** https://nqobile-portfolio.onrender.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nqobile-masombuka/  
